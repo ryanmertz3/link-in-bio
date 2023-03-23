@@ -5,3 +5,4 @@ Add your own link in bio. Clone this repository, create a branch, add your link 
 
 ## Links
 [Ian Heraty](https://heratyian.github.io)
+[Hugo Torres](https://www.freegeek.org/computer-adoption)
