@@ -9,19 +9,4 @@ Add your own link in bio. Clone this repository, create a branch, add your link 
 [Paulina Delmore](https://pdelmore.github.io/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [Josseph Downs](https://jdowns525.github.io/)
