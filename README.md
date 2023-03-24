@@ -15,5 +15,5 @@ Add your own link in bio. Clone this repository, create a branch, add your link 
 * [Justin](https://justin1111111111.github.io/)
 * [Josseph Downs](https://jdowns525.github.io/)
 * [Mark Smithivas](https://msmithivas.github.io/)
-* [Mohammad Ali](https://github.com/karimi65)
+* [Mohammad Ali (Not the Boxer; The Captain)](https://karimi65.github.io/links/)
 * [sunil patel](https://sunilkumar-techprep.github.io)
