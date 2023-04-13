@@ -7,6 +7,7 @@ Add your own link in bio. Clone this repository, create a branch, add your link 
  If you want to go fast, go alone; If you want to go far go together!
 
 ## Links
+* [Tan Sakeer](https://tansakeer.github.io/)
 * [Piyush Patel](https://prpdpigithub.github.io/)
 * [Ian Heraty](https://heratyian.github.io)
 * [Justin](https://github.com/Justin1111111111/Linkinbio.github.io)
