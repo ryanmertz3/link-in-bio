@@ -5,6 +5,7 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 
 
 ## Links
-
-Ximena Castillo https://meenoow.github.io/
+- [Dustin Doyle](https://dantexkilljoy.github.io)
+- [Ian Heraty](https://heratyian.github.io/)
+- Ximena Castillo https://meenoow.github.io/
 
