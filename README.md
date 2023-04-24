@@ -5,6 +5,7 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 
 
 ## Links
+- [Jorge Gomez](https://gomezzzer.github.io/Gomezzzer2.github.io) 
 - [Alejandra Landa](https://alelanda-rq.github.io/)
 - [Ian Heraty](https://heratyian.github.io/)
 - [Yanet Roman](https://yanettechprep.github.io)
