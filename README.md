@@ -5,4 +5,4 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 
 
 ## Links
--[Jorge Gomez](gomezzzer.github.io/Gomezzzer2.github.io)
+-[Jorge Gomez](https://gomezzzer.github.io/Gomezzzer2.github.io) 
