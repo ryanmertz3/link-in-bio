@@ -22,4 +22,5 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 - [Jazmine Tran](https://jptran0.github.io/)
 - [Brandi Davis](https://brdavis330.github.io/)
 - [Nayla Castillo](https://castnay.github.io/)
+- [Miroslava Osorio](https://mosorio1.github.io) 
 
