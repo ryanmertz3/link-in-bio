@@ -5,12 +5,4 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 
 
 ## Links
-
-
-
-
-
-
-
-
 - [Alejandra Landa](https://alelanda-rq.github.io/)
