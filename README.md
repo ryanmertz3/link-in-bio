@@ -15,5 +15,11 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 
 - [Dustin Doyle](https://dantexkilljoy.github.io)
 - [Ian Heraty](https://heratyian.github.io/)
+
 - [Evan Burton] (https://evanburton77.github.io/)
+
+
+- [Jazmine Tran](https://jptran0.github.io/)
+- [Brandi Davis](https://brdavis330.github.io/)
+- [Nayla Castillo](https://castnay.github.io/)
 
